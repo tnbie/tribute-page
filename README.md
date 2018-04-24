@@ -1,4 +1,3 @@
-# Tribute Page
+## Tribute Page
 
-##### Used: Bootstrap, CSS and HTML5
-##### Difficult: Easy
+This project is a task of the curriculum program on freeCodeCamp.
