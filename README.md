@@ -8,4 +8,4 @@ This project is a task of the curriculum program on freeCodeCamp.
 4. Good pratices(spacing, margin, css rules, js on bottom)
 5. Refactored on 24/04/2018.
 6. Language of Page: Portuguese.
-7. This page is only for study purposes. 
+7. This page is only for study purposes, non-commercial use.
